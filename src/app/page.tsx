@@ -8,7 +8,7 @@ export default function Home() {
             SimpleStats
           </h1>
           <p className="text-xl text-gray-600 dark:text-gray-300">
-            最简洁的状态栏信息显示工具
+            最简洁的状态栏信息显示工具,包含CPU、RAM、网速的可选择性显示
           </p>
         </header>
 
